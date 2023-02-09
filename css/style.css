@@ -1,0 +1,55 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+#task{
+	border:1px solid gray;
+	margin:5% 39% 0% 36%;
+	padding:5px 5px 5px 5px;
+}
+.icon{
+	border:2px solid gray;
+	background-color:orange;
+	color:white;
+	font-size:20px;
+	position:absolute;
+	top:85px;
+}
+.icon2{
+	width:40px;
+	height:auto;
+	background-color:gray;
+	border-radius:50%;
+	padding:10px;
+	color:white;
+	position:absolute;
+	top:80px;
+	right:620px;
+}
+.image{
+	border-radius:50%;
+}
+.icon3{
+	color:yellow;
+	font-size:20px;
+	position:absolute;
+	right:650px;
+	top:360px;
+}
+.flex{
+	display:flex;
+}
+.position h3{
+	position:absolute;
+	top:370px;
+	left:625px;
+}
+.rating{
+	position:absolute;
+	top:360px;
+	right:610px;
+}
+.para{
+	margin-left:10px;
+}
